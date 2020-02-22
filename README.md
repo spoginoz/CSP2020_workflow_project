@@ -31,3 +31,6 @@ otherwise, repeat. </li>
 <li>Build your project report. Include a description of the project analysis, results from your EDA, a graph or two and your conclusions.</li>
 <li>Save files, commit and push!</li>
 <li>Refresh your github page and look at your results</li>
+
+
+<p>This is testing a new paragraph for a markdown file.</p>
