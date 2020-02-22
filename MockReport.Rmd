@@ -37,4 +37,4 @@ ggplot(zooAnimalSum, aes(TaxonClass, medMLE, fill = mle_group)) +
 
 #I'd like to compare with wild median life expectancy
 
-In summary, Amphibia have the shortest median life spans in zoos.
+In summary, Amphibia have the shortest median life spans in zoos. Only female aracnida were recorded. 
