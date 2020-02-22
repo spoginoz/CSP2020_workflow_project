@@ -1,6 +1,4 @@
----
-output: html_document
----
+
 # CSP2020_workflow_project
 
 Project file for CSP 2020 tutorial
@@ -24,7 +22,7 @@ Do a little EDA.</li>
 required packages and other documentation.</li>
 <li>Save files, commit and push!</li>
 <li>Play with code in your script file</li>
-<li>Save and commit (don't push yet!)</li>
+<li>Save and commit (don't push yet)</li>
 <li>Play a little more with code</li>
 <li>Save and ammend your previous commit. </li>
 <li>Push if you're at a stopping place with your code, 
